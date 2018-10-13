@@ -1,0 +1,17 @@
+C:\Users\Assaad\source\repos\YahooWeatherApiPrjct\YahooWeatherApiPrjct\bin\Release\YahooWeatherApiPrjct.exe.config
+C:\Users\Assaad\source\repos\YahooWeatherApiPrjct\YahooWeatherApiPrjct\bin\Release\YahooWeatherApiPrjct.exe
+C:\Users\Assaad\source\repos\YahooWeatherApiPrjct\YahooWeatherApiPrjct\bin\Release\YahooWeatherApiPrjct.pdb
+C:\Users\Assaad\source\repos\YahooWeatherApiPrjct\YahooWeatherApiPrjct\bin\Release\Newtonsoft.Json.dll
+C:\Users\Assaad\source\repos\YahooWeatherApiPrjct\YahooWeatherApiPrjct\bin\Release\Newtonsoft.Json.xml
+C:\Users\Assaad\source\repos\YahooWeatherApiPrjct\YahooWeatherApiPrjct\obj\Release\MainWindow.g.cs
+C:\Users\Assaad\source\repos\YahooWeatherApiPrjct\YahooWeatherApiPrjct\obj\Release\App.g.cs
+C:\Users\Assaad\source\repos\YahooWeatherApiPrjct\YahooWeatherApiPrjct\obj\Release\YahooWeatherApiPrjct_MarkupCompile.cache
+C:\Users\Assaad\source\repos\YahooWeatherApiPrjct\YahooWeatherApiPrjct\obj\Release\YahooWeatherApiPrjct_MarkupCompile.lref
+C:\Users\Assaad\source\repos\YahooWeatherApiPrjct\YahooWeatherApiPrjct\obj\Release\MainWindow.baml
+C:\Users\Assaad\source\repos\YahooWeatherApiPrjct\YahooWeatherApiPrjct\obj\Release\YahooWeatherApiPrjct.g.resources
+C:\Users\Assaad\source\repos\YahooWeatherApiPrjct\YahooWeatherApiPrjct\obj\Release\YahooWeatherApiPrjct.Properties.Resources.resources
+C:\Users\Assaad\source\repos\YahooWeatherApiPrjct\YahooWeatherApiPrjct\obj\Release\YahooWeatherApiPrjct.csproj.GenerateResource.cache
+C:\Users\Assaad\source\repos\YahooWeatherApiPrjct\YahooWeatherApiPrjct\obj\Release\YahooWeatherApiPrjct.csproj.CoreCompileInputs.cache
+C:\Users\Assaad\source\repos\YahooWeatherApiPrjct\YahooWeatherApiPrjct\obj\Release\YahooWeatherApiPrjct.csproj.CopyComplete
+C:\Users\Assaad\source\repos\YahooWeatherApiPrjct\YahooWeatherApiPrjct\obj\Release\YahooWeatherApiPrjct.exe
+C:\Users\Assaad\source\repos\YahooWeatherApiPrjct\YahooWeatherApiPrjct\obj\Release\YahooWeatherApiPrjct.pdb
